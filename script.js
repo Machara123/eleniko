@@ -5,11 +5,11 @@ document.addEventListener('DOMContentLoaded', () => {
         buildCar();
     });
 
-    // Start flower animation
+  
    
 });
 
-// Function to create flower elements and animate them
+
 
 
 // Function to animate shapes and transition to the main site
