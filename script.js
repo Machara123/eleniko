@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Start flower animation
-    createFlowers();
+   
 });
 
 // Function to create flower elements and animate them
