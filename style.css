@@ -162,15 +162,7 @@ header p {
     pointer-events: none;
 }
 
-.flower {
-    position: absolute;
-    bottom: -50px;
-    width: 30px;
-    height: 30px;
-    background-image: url('https://i.imgur.com/0Z2e7Wc.png');
-    background-size: cover;
-    animation: flowerAnimation 10s infinite;
-}
+
 
 @keyframes flowerAnimation {
     0% {
